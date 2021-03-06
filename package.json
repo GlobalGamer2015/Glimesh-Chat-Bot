@@ -1,0 +1,16 @@
+{
+  "name": "glimeshchatbot",
+  "version": "1.0.0",
+  "description": "glimesh chat bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "GG2015",
+  "license": "GPL",
+  "dependencies": {
+    "glimesh-chat": "^1.0.2",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+  }
+}
