@@ -2,9 +2,9 @@
   "name": "glimeshchatbot",
   "version": "1.0.0",
   "description": "glimesh chat bot",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
   "author": "GG2015",
   "license": "GPL",
