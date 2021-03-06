@@ -11,7 +11,7 @@ Features:
 This requires you to setup OAuth to use it correctly.
 I recommend you to go here to learn how to [setup OAuth](https://github.com/Glimesh/api-docs/blob/master/Topics/OAuth/AccessToken/generalInfo.MD).
 
-Check Server.js, everything inside is documented.
+Check [Server.js](https://github.com/GlobalGamer2015/Glimesh-Chat-Bot/blob/main/server.js), everything inside is documented.
 
 ### Install
 
