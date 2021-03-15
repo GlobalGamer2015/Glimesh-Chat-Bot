@@ -1,5 +1,7 @@
 # Open-Source Glimesh Chat Bot
 
+I recommend using [this](https://github.com/GlobalGamer2015/Glimesh-Chat-Lib) package with your Glimesh Chat Bot.
+
 Connect to a specific Glimesh Streamer Channel.
 
 Features:
